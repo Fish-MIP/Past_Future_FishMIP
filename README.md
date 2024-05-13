@@ -1,2 +1,2 @@
-# Past_Future_FishMIP
-Data and code for "The Past and Future of The Fisheries and Marine Ecosystem Model Intercomparison Project"
+# Data and code for "The Past and Future of The Fisheries and Marine Ecosystem Model Intercomparison Project"
+This repository contains data and code used to create Figure 2 in Novaglio, C., Bryndum-Buchholz A., Tittensor, D.P., Eddy, T.D., Lotze, H.K., Harrison, C.S., ... & Blanchard, J.L. (2024). The Past and Future of the Fisheries and Marine Ecosystem Model Intercomparison Project. AGU Preprint. doi.org/10.22541/essoar.170542252.20348236/v1 
